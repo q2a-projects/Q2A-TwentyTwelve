@@ -2,9 +2,10 @@
 ================
 ## Description
 this theme is created based on wordpress's default theme **TwentyTwelve**.
-this theme is created bye [Towhid Nategheian](http://TowhidN.com) from [QA-Themes.com](http://QA-Themes.com):
-this theme has been created and tested for Question2Answer 1.6
-[theme demo](http://demo.qa-themes.com/twentytwelve/)
+
+it's created by [Towhid Nategheian](http://TowhidN.com) from [QA-Themes.com](http://QA-Themes.com) and had been created and tested for Question2Answer 1.6. 
+
+check out the [theme demo](http://demo.qa-themes.com/twentytwelve/)
 
 ## Installation
 
